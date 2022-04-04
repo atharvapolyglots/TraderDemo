@@ -1,0 +1,15 @@
+.entryx{
+    background-color:  rgb(25, 25, 61);
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 15px;
+    padding-bottom: 55px;
+    position: relative;
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px black;
+    color: white;
+    top: 1%;
+}
+.progressX{
+    padding-top: 5px;
+}

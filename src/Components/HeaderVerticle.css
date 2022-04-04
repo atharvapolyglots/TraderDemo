@@ -1,0 +1,16 @@
+.nav li{
+    padding: 11px;
+    color: white;
+    font-size: 17px;
+    position: relative;
+    left: -45%;
+}
+.nav{
+    background-color:  rgb(8, 8, 46);
+    height: 648px;
+
+
+}
+ul{
+    list-style-type: none;
+}

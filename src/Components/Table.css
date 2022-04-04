@@ -1,0 +1,11 @@
+.table{
+   
+    background-color:  rgb(25, 25, 61);
+    padding-left: 365px;
+    padding-right: 365px;
+    padding-top: 285px;
+    padding-bottom: 200px;
+    position: relative;
+    color: white;
+    border-radius: 5px;
+}
